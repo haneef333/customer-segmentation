@@ -108,6 +108,17 @@ These customer segments can be used for:
 - Targeted advertisements
 
 ---
+### Naming the Segments
+
+Based on the average Age, Annual Income, and Spending Score per cluster:
+
+- **Cluster 2 — VIP Customers**: highest income (86.1) and highest spending score (81.5). The most valuable segment — has the means and the willingness to spend.
+- **Cluster 3 — Conservative High Earners**: same high income as Cluster 2 (86.1) but the lowest spending score (19.4). Income isn't the barrier here — spending behavior is; a segment that needs a different marketing approach than Cluster 2 despite similar earnings.
+- **Cluster 1 — Young High Spenders**: youngest group (25.2) with a high spending score (62.2) despite only moderate income (41.1). Spends beyond what income alone would predict — likely lifestyle-driven.
+- **Cluster 0 — Budget Customers**: lowest income (26.75) and lowest spending score (18.35). Limited discretionary budget across the board.
+- **Cluster 4 — Standard Customers**: oldest group (55.6), with income and spending both sitting in the middle — a stable, moderate segment.
+
+**Business takeaway:** Clusters 2 and 3 both have high income, but only Cluster 2 converts that into spending — this distinction alone justifies different marketing strategies for what would otherwise look like a single "high income" group if segmented on income alone.
 
 ## Project Structure
 
